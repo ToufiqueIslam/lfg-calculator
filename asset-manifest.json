@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lfg-calculator/static/css/main.e234c3af.css",
-    "main.js": "/lfg-calculator/static/js/main.f36dc6ca.js",
+    "main.css": "/lfg-calculator/static/css/main.4af58166.css",
+    "main.js": "/lfg-calculator/static/js/main.2867a03d.js",
     "static/js/488.c7d6b0ad.chunk.js": "/lfg-calculator/static/js/488.c7d6b0ad.chunk.js",
     "index.html": "/lfg-calculator/index.html",
-    "main.e234c3af.css.map": "/lfg-calculator/static/css/main.e234c3af.css.map",
-    "main.f36dc6ca.js.map": "/lfg-calculator/static/js/main.f36dc6ca.js.map",
+    "main.4af58166.css.map": "/lfg-calculator/static/css/main.4af58166.css.map",
+    "main.2867a03d.js.map": "/lfg-calculator/static/js/main.2867a03d.js.map",
     "488.c7d6b0ad.chunk.js.map": "/lfg-calculator/static/js/488.c7d6b0ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e234c3af.css",
-    "static/js/main.f36dc6ca.js"
+    "static/css/main.4af58166.css",
+    "static/js/main.2867a03d.js"
   ]
 }
