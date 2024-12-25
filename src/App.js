@@ -21,7 +21,13 @@ function LFGCalculator() {
   const calculateResults = () => {
     const signalRate = signalRatio ? signalRatio / 100 : 0; // Convert percentage to decimal
     const balance = binaryBalance ? Number(binaryBalance) : 0;
-    const position = balance * signalRate;
+    let position = balance * signalRate;
+    if (signalRatio==7 && position>4000) position=4000; 
+    if (signalRatio==8 && position>4500) position=4500; 
+    if (signalRatio==9 && position>5000) position=5000; 
+    if (signalRatio==10 && position>8000) position=8000; 
+    if (signalRatio==11 && position>12000) position=12000; 
+    if (signalRatio==12 && position>20000) position=20000; 
     const profit = isSunday ? 0 : position * 0.75;
     const settlement = isSunday ? 0 : position + profit;
     const loss = isSunday ? position : 0;
