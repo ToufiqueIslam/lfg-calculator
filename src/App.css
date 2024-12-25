@@ -12,7 +12,7 @@ body {
 }
 
 .calculator {
-  max-width: 500px;
+  max-width: 600px;
   padding: 20px;
   background: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
   border-radius: 10px;

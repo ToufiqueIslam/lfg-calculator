@@ -40,6 +40,7 @@ function LFGCalculator() {
           BINARY BALANCE:
           <input
             type="number"
+            style={{ width: "80%" }}
             value={binaryBalance}
             onChange={handleBinaryChange}
           />
