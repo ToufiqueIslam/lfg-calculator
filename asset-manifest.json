@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lfg-calculator/static/css/main.bb894046.css",
+    "main.js": "/lfg-calculator/static/js/main.c1839b4a.js",
+    "static/js/488.c7d6b0ad.chunk.js": "/lfg-calculator/static/js/488.c7d6b0ad.chunk.js",
+    "index.html": "/lfg-calculator/index.html",
+    "main.bb894046.css.map": "/lfg-calculator/static/css/main.bb894046.css.map",
+    "main.c1839b4a.js.map": "/lfg-calculator/static/js/main.c1839b4a.js.map",
+    "488.c7d6b0ad.chunk.js.map": "/lfg-calculator/static/js/488.c7d6b0ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb894046.css",
+    "static/js/main.c1839b4a.js"
+  ]
+}
